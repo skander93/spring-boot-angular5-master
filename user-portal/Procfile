@@ -1,1 +1,1 @@
-web: java -jar target/user-portal.jar
+web: java $JAVA_OPTS jar target/dependency/spring-boot-starter-web.jar 
