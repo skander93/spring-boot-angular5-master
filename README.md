@@ -13,3 +13,4 @@ This project uses following versions:
 2. Angular v5.0.0
 3. Maven
 # spring-boot-angular5-master
+# DeploiementStage
