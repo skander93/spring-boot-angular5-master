@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS jar target/dependency/spring-boot-starter-web.jar 
+web:    java $JAVA_OPTS -jar target/dependency/spring-boot-starter-web.jar --port $PORT target/*.war
